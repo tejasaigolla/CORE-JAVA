@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Emp2
+public class EmpFifth
 {
 	private String name;
 	private String address;
